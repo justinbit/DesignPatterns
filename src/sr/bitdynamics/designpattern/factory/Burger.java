@@ -1,6 +1,5 @@
 package sr.bitdynamics.designpattern.factory;
 
-public interface Shape {
-
-    void draw ();
+public interface Burger {
+    void prepare();
 }
